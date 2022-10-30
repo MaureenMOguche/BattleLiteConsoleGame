@@ -1,0 +1,12 @@
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\bin\Debug\net6.0\MyBattleLite.deps.json
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\bin\Debug\net6.0\MyBattleLite.dll
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\bin\Debug\net6.0\MyBattleLite.pdb
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\obj\Debug\net6.0\MyBattleLite.csproj.AssemblyReference.cache
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\obj\Debug\net6.0\MyBattleLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\obj\Debug\net6.0\MyBattleLite.AssemblyInfoInputs.cache
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\obj\Debug\net6.0\MyBattleLite.AssemblyInfo.cs
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\obj\Debug\net6.0\MyBattleLite.csproj.CoreCompileInputs.cache
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\obj\Debug\net6.0\MyBattleLite.dll
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\obj\Debug\net6.0\refint\MyBattleLite.dll
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\obj\Debug\net6.0\MyBattleLite.pdb
+C:\Users\OGUCHE\Desktop\MyBattleLite\MyBattleLite\obj\Debug\net6.0\ref\MyBattleLite.dll
