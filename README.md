@@ -29,6 +29,12 @@ Process is repeated alternating between the two players.
 
 The first player to hit (sink) all opponent's shots is declared winner and game ends.
 
+## Usage
+- Open the folder titled "AppFolder"
+- Run the ConsoleUI exe file (for windows)
+
+- For other OS, Souce code is in the folder titled "Source Codes", complile and run.
+
 ## My Process
 ### Built with
 - C# / dotNet
